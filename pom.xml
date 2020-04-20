@@ -83,9 +83,18 @@
                 <version>3.0.1</version>
                 <executions>
                     <execution>
-                        <id>copy-dependencies</id>
-                        <phase>package</phase>
-                        <goals><goal>copy-dependencies</goal></goals>
+                       <phase>package</phase>
+                    <goals><goal>copy</goal></goals>
+                    <configuration>
+                        <artifactItems>
+                            <artifactItem>
+                                <groupId>com.heroku</groupId>
+                                <artifactId>webapp-runner</artifactId>
+                                <version>9.0.30.0</version>
+                                <destFileName>webapp-runner.jar</destFileName>
+                            </artifactItem>
+                        </artifactItems>
+                    </configuration>
                     </execution>
                 </executions>
             </plugin>
@@ -96,9 +105,7 @@
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
           <failOnMissingWebXml>false</failOnMissingWebXml>
-          <processTypes>
-     <web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
-  </processTypes>
+         
   <appName>ebank17</appName>
 
         </configuration>
