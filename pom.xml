@@ -83,7 +83,7 @@
           <processTypes>
      <web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
   </processTypes>
-  <appName>sushi</appName>
+  <appName>ebank17</appName>
 
         </configuration>
       </plugin>
