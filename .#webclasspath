@@ -1,0 +1,58 @@
+F:\GitHub\Ebanking\target\classes
+F:\GitHub\Ebanking\WebContent\WEB-INF\lib\mysql-connector-java-5.1.45-bin.jar
+C:\Program Files (x86)\MySQL\Connector J 5.1\mysql-connector-java-5.1.45-bin.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\access-bridge-64.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\cldrdata.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\dnsns.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\jaccess.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\jfxrt.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\localedata.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\nashorn.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunec.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunjce_provider.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunmscapi.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\sunpkcs11.jar
+C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext\zipfs.jar
+C:\Users\mesai\.m2\repository\javax\javaee-web-api\6.0\javaee-web-api-6.0.jar
+C:\Users\mesai\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-catalina\9.0.31\tomcat-catalina-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-servlet-api\9.0.31\tomcat-servlet-api-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-jsp-api\9.0.31\tomcat-jsp-api-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-el-api\9.0.31\tomcat-el-api-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-juli\9.0.31\tomcat-juli-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-annotations-api\9.0.31\tomcat-annotations-api-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-api\9.0.31\tomcat-api-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-jni\9.0.31\tomcat-jni-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-coyote\9.0.31\tomcat-coyote-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-util\9.0.31\tomcat-util-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-util-scan\9.0.31\tomcat-util-scan-9.0.31.jar
+C:\Users\mesai\.m2\repository\org\apache\tomcat\tomcat-jaspic-api\9.0.31\tomcat-jaspic-api-9.0.31.jar
+C:\Users\mesai\.m2\repository\javax\servlet\jsp\jsp-api\2.2\jsp-api-2.2.jar
+C:\Users\mesai\.m2\repository\javax\servlet\servlet-api\2.5\servlet-api-2.5.jar
+C:\Users\mesai\.m2\repository\javax\javaee-api\6.0\javaee-api-6.0.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\annotations-api.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\catalina-ant.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\catalina-ha.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\catalina-tribes.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\catalina.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\ecj-4.2.1.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\el-api.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\jasper-el.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\jasper-jdt.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\jasper.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\jsp-api.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\servlet-api.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-api.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-coyote.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-dbcp.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-i18n-es.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-i18n-fr.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-i18n-ja.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-jdbc.jar
+F:\Eclipse\apache-tomcat-7.0.37\lib\tomcat-util.jar

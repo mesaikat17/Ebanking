@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <workDir>/work</workDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo></extraInfo>
+    <mavenClasspath>true</mavenClasspath>
+    <webPath></webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/EBanking/target/classes</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files (x86)/MySQL/Connector J 5.1/mysql-connector-java-5.1.45-bin.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/charsets.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/access-bridge-64.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/cldrdata.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/dnsns.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/jaccess.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/jfxrt.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/localedata.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/nashorn.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/sunec.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/sunjce_provider.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/sunmscapi.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/sunpkcs11.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/ext/zipfs.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/jce.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/jfr.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/jsse.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/resources.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/javax/javaee-api/6.0/javaee-api-6.0.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-annotations-api/9.0.31/tomcat-annotations-api-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-api/9.0.31/tomcat-api-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-catalina/9.0.31/tomcat-catalina-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-coyote/9.0.31/tomcat-coyote-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-el-api/9.0.31/tomcat-el-api-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-jaspic-api/9.0.31/tomcat-jaspic-api-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-jni/9.0.31/tomcat-jni-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-jsp-api/9.0.31/tomcat-jsp-api-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-juli/9.0.31/tomcat-juli-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-servlet-api/9.0.31/tomcat-servlet-api-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-util-scan/9.0.31/tomcat-util-scan-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Users/mesai/.m2/repository/org/apache/tomcat/tomcat-util/9.0.31/tomcat-util-9.0.31.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/annotations-api.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/catalina-ant.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/catalina-ha.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/catalina-tribes.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/catalina.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/ecj-4.2.1.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/el-api.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/jasper-el.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/jasper-jdt.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/jasper.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/jsp-api.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/servlet-api.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-api.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-coyote.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-dbcp.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-i18n-es.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-i18n-fr.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-i18n-ja.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-jdbc.jar</webClassPathEntry>
+        <webClassPathEntry>F:/Eclipse/apache-tomcat-7.0.37/lib/tomcat-util.jar</webClassPathEntry>
+        <webClassPathEntry>F:/GitHub/Ebanking/WebContent/WEB-INF/lib/mysql-connector-java-5.1.45-bin.jar</webClassPathEntry>
+        <webClassPathEntry>org.eclipse.jst.j2ee.internal.module.container</webClassPathEntry>
+        <webClassPathEntry>org.eclipse.jst.j2ee.internal.web.container</webClassPathEntry>
+        <webClassPathEntry>org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0</webClassPathEntry>
+        <webClassPathEntry>org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>
