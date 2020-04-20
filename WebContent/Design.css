@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+#box1
+{
+	
+	width:845px;
+	background:green;
+	margin-top:150px;
+	margin-left:280px;
+}
+
+#box2
+{
+	width:175px;
+	background:gold;
+	margin-top:100px;
+	margin-left:600px;
+}
+#box3
+{
+	width:175px;
+	background:gold;
+	margin-top:50px;
+	margin-left:600px;
+}
+#box4
+{
+	width:340px;
+	background:gold;
+	margin-top:220px;
+	margin-left:500px;
+}
+#box5
+{
+	width:350px;
+	background:gold;
+	margin-top:220px;
+	margin-left:500px;
+}
+#box6
+{
+	width:100px;
+	
+	margin-top:10px;
+	margin-left:1100px;
+}
+
+#box7
+{
+	width:1200px;
+	background:gold;
+	margin-top:10px;
+	margin-left:80px;
+}
