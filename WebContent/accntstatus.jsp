@@ -10,6 +10,7 @@
 <body bgcolor="gold">
 <form action="confirmrequest.jsp">
 <table border="3" align="center">
+<a href="info.html">[HOME]</a>
 <tr><td>ACCNT NO</td>
 <td>NAME</td>
 <td>STATUS</td>
